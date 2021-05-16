@@ -14,8 +14,8 @@ String strMSG = "0";
 char mensagem[30];
 
 
-const char* ssid = "casazul";   
-const char* password =  "internetdanieldantas";
+const char* ssid = "Hayanne";   
+const char* password =  "D@rc2961";
 
 const char* mqttServer = "driver.cloudmqtt.com";
 const char* mqttUser = "urxhvxbl";              
